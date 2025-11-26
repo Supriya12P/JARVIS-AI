@@ -59,7 +59,7 @@ A fully functional AI assistant with 60+ system commands and 30+ quick actions. 
 - Defragment disk
 - System backup
 
-## Quick Actions (30+)<img width="1024" height="403" alt="linkedinposter" src="https://github.com/user-attachments/assets/1afd6491-df48-4a98-8776-f7225e02eaff" />
+## Quick Actions (30+)
 
 
 1. Current Time
